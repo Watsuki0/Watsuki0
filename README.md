@@ -50,7 +50,7 @@ Some of my public projects showcase concepts and experiments, but most of my rea
 ---
 
 ### 💡 Projects & Experiments (Concepts)
-- Interactive web applications with **React + ASP.NET**  
+- Interactive web applications with **React / ASP.NET**  
 - AI experiments using **Python**  
 - Small game prototypes & 2D simulations  
 - Database management & optimization projects (**SQL Server, PostgreSQL**)  
