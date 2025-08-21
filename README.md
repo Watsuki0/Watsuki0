@@ -63,12 +63,19 @@
 - **Hackathon 2025**: Team of 4, 72h AI project for #AIFORGOOD, Mons.  
 - **Web Development**: Creation & management of websites, e.g., [UBLF](https://ublf.kalisport.com) and other personal projects.
 - **A lot of others projects**
+
 ---
 
 ### 🗂️ Selected Public Work
 > "Everything you see here is just the tip of the iceberg."  
 
 Some of my public projects showcase concepts and experiments, but most of my real work happens **behind the scenes**, in environments and projects that are private.  
+
+---
+
+### 💼 Current Roles
+- **Webmaster** at [UBLf](https://ublf.kalisport.com) – Managing and maintaining the club's website and online presence.  
+- **Computer Science Instructor** at [Logiscool Mons](https://www.logiscool.com/be/locations/mons) – Teaching programming and IT concepts to students in a fun, interactive way.
 
 ---
 
@@ -104,8 +111,6 @@ Some of my public projects showcase concepts and experiments, but most of my rea
 - Passionate about building **efficient, scalable, and clean code**  
 - Always trying to push the **limits of what I can build**  
 
----
-- 💼 Currently working as a **Webmaster** for [UBLF](https://ublf.kalisport.com)
 ---
 
 ### 📬 Connect With Me
