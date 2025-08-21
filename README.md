@@ -18,19 +18,57 @@
 ---
 
 ### 🛠️ Skills & Technologies
+
 <p align="center">
+  <!-- Langages -->
   <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+<p align="center">
+  <!-- Frameworks & Outils -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-FF6C37?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tinkercad-F78F1E?style=for-the-badge&logo=tinkercad&logoColor=white" />
+</p>
+
+---
+
+### 💻 Professional & Personal Expertise
+- **Programming & OOP**: Modular and scalable systems in C#, GDScript (Godot), including libraries and banking systems.  
+- **Web & UX/UI**: Responsive web design, wireframes, user-centered interface design.  
+- **Databases**: SQL & PL/SQL (Oracle, PostgreSQL), database design, querying, management.  
+- **Networking**: Windows Server (DNS, DHCP, Proxy, AD DC), user & security management, network architecture, basics of Cisco.  
+- **Methodologies & Design**: Agile, documentation, UML, design patterns, technical analysis.  
+- **AI**: Local AI assistant based on OpenChat 3.5, optimized for coding help and automation.  
+- **API Development**: Design & implementation for personal and academic projects.  
+
+---
+
+### 📂 Personal Projects
+- **Hackathon 2025**: Team of 4, 72h AI project for #AIFORGOOD, Mons.  
+- **Web Development**: Creation & management of websites, e.g., [UBLf](https://www.ublf.be) and other personal projects.
+- 
+---
+
+### 🗂️ Selected Public Work
+> "Everything you see here is just the tip of the iceberg."  
+
+Some of my public projects showcase concepts and experiments, but most of my real work happens **behind the scenes**, in environments and projects that are private.  
 
 ---
 
@@ -39,13 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Watsuki&show_icons=true&theme=radical&hide=prs" alt="Watsuki's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Watsuki&theme=radical" alt="Watsuki's GitHub Streak" />
 </p>
-
----
-
-### 🗂️ Selected Public Work
-> "Everything you see here is just the tip of the iceberg."  
-
-Some of my public projects showcase concepts and experiments, but most of my real work happens **behind the scenes**, in environments and projects that are private.  
 
 ---
 
