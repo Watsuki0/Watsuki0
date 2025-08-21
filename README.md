@@ -3,7 +3,7 @@
 <!-- ========================== -->
 
 <h1 align="center">Hi 👋, I'm Watsuki</h1>
-<h3 align="center">Full-Stack Developer | React, ASP.NET, SQL | AI Enthusiast | Gamer</h3>
+<h3 align="center">Full-Stack Developer | React, ASP.NET, SQL, etc... | AI Enthusiast | Hardcore Gamer</h3>
 
 ---
 
@@ -73,6 +73,8 @@ Some of my public projects showcase concepts and experiments, but most of my rea
 - Passionate about building **efficient, scalable, and clean code**  
 - Always trying to push the **limits of what I can build**  
 
+---
+- 💼 Currently working as a **Webmaster** for [UBLf](https://www.ublf.be)
 ---
 
 ### 📬 Connect With Me
