@@ -74,7 +74,7 @@ Some of my public projects showcase concepts and experiments, but most of my rea
 - Always trying to push the **limits of what I can build**  
 
 ---
-- 💼 Currently working as a **Webmaster** for [UBLF](www.ublf.be)
+- 💼 Currently working as a **Webmaster** for [UBLF](https://www.ublf.be](https://ublf.kalisport.com/))
 ---
 
 ### 📬 Connect With Me
