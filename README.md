@@ -68,7 +68,7 @@ Some of my public projects showcase concepts and experiments, but most of my rea
 ---
 
 ### ✨ Fun Facts
-- I absolutely love **tea ☕**  
+- I absolutely love **tea ☕** and beverages that keep me awake, like **energy drinks ⚡**
 - Big fan of **gaming 🎮** and Japanese culture 🇯🇵  
 - Passionate about building **efficient, scalable, and clean code**  
 - Always trying to push the **limits of what I can build**  
