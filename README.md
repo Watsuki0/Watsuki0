@@ -3,14 +3,14 @@
 <!-- ========================== -->
 
 <h1 align="center">Hi 👋, I'm Corentin van Geel</h1>
-<h3 align="center">Full-Stack Developer | React, ASP.NET, SQL, etc... | AI Enthusiast | Hardcore Gamer</h3>
+<h3 align="center">Full-Stack Developer | React, ASP.NET, SQL, AI Enthusiast | Hardcore Gamer</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently finishing my **Bachelor in Computer Science**  
-- 💼 Looking for opportunities in **Light Application Development**  
-- 💡 I build **interactive projects**, explore **AI**, game development, and modern web technologies  
+- 🎓 Finishing my **Bachelor in Computer Science**  
+- 💼 Seeking opportunities in **Light Application Development**  
+- 💡 Passionate about **interactive projects, AI, game development, and modern web technologies**  
 - 🌍 Based in **Belgium**  
 - 🌱 Always learning new **frameworks, libraries, and programming languages**  
 - 🔗 My public work is just the **tip of the iceberg**  
@@ -20,7 +20,7 @@
 ### 🛠️ Skills & Technologies
 
 <p align="center">
-  <!-- Langages -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <!-- Frameworks & Outils -->
+  <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
@@ -48,57 +48,33 @@
 
 ---
 
-### 💻 Professional & Personal Expertise
-- **Programming & OOP**: Modular and scalable systems in C#, GDScript (Godot), including libraries and banking systems.  
-- **Web & UX/UI**: Responsive web design, wireframes, user-centered interface design.  
-- **Databases**: SQL & PL/SQL (Oracle, PostgreSQL), database design, querying, management.  
-- **Networking**: Windows Server (DNS, DHCP, Proxy, AD DC), user & security management, network architecture, basics of Cisco.  
-- **Methodologies & Design**: Agile, documentation, UML, design patterns, technical analysis.  
-- **AI**: Local AI assistant based on OpenChat 3.5, optimized for coding help and automation.  
-- **API Development**: Design & implementation for personal and academic projects.  
+### 💻 Expertise
+- **Programming & OOP**: Modular and scalable systems in C# and GDScript (Godot), including libraries and banking systems  
+- **Web & UX/UI**: Responsive web design, wireframes, user-centered interfaces  
+- **Databases**: SQL & PL/SQL (Oracle, PostgreSQL), design, querying, optimization  
+- **Networking**: Windows Server (DNS, DHCP, Proxy, AD DC), security, user management; basic Cisco knowledge  
+- **Methodologies & Design**: Agile, documentation, UML, design patterns, requirements analysis  
+- **AI & Automation**: Local AI assistant based on OpenChat 3.5 for programming support  
+- **API Development**: Design & implementation for personal and academic projects  
 
 ---
 
 ### 📂 Personal Projects
-- **Hackathon 2025**: Team of 4, 72h AI project for #AIFORGOOD, Mons.  
-- **Web Development**: Creation & management of websites, e.g., [UBLF](https://ublf.kalisport.com) and other personal projects.
-- **A lot of others projects**
-
----
-
-### 🗂️ Selected Public Work
-> "Everything you see here is just the tip of the iceberg."  
-
-Some of my public projects showcase concepts and experiments, but most of my real work happens **behind the scenes**, in environments and projects that are private.  
+- **Hackathon 2025**: 72h AI project with a team of 4 for #AIFORGOOD, Mons  
+- **Web Development**: Managed sites such as [UBLF](https://ublf.kalisport.com) and other personal projects  
+- **Game Development & AI Experiments**: Prototypes, simulations, and interactive applications  
 
 ---
 
 ### 💼 Current Roles
-- **Webmaster** at [UBLF](https://ublf.kalisport.com) – Managing and maintaining the club's website and online presence.  
-- **Computer Science Instructor** at [Logiscool Mons](https://www.logiscool.com/be/locations/mons) – Teaching programming and IT concepts to students in a fun, interactive way.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Watsuki&show_icons=true&theme=radical&hide=prs" alt="Watsuki's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Watsuki&theme=radical" alt="Watsuki's GitHub Streak" />
-</p>
-
----
-
-### 💡 Projects & Experiments (Concepts)
-- Interactive web applications with **React / ASP.NET**  
-- AI experiments using **Python**  
-- Small game prototypes & 2D simulations  
-- Database management & optimization projects (**SQL Server, PostgreSQL**)  
-- UI/UX experimentation & responsive design  
+- **Webmaster** at [UBLF](https://ublf.kalisport.com) – Maintaining the club’s website and online presence  
+- **Computer Science Instructor** at [Logiscool Mons](https://www.logiscool.com/be/locations/mons) – Teaching programming and IT in a fun, interactive way  
 
 ---
 
 ### 🌱 Learning & Interests
 - AI & Machine Learning  
-- Cloud & server-side technologies  
+- Cloud & backend technologies  
 - Game development & shaders  
 - Japanese language & culture  
 - Finance, investments & tech entrepreneurship  
@@ -106,10 +82,10 @@ Some of my public projects showcase concepts and experiments, but most of my rea
 ---
 
 ### ✨ Fun Facts
-- I absolutely love **tea ☕** and beverages that keep me awake, like **energy drinks ⚡**
+- I absolutely love **tea ☕** and beverages that keep me awake, like **energy drinks ⚡**  
 - Big fan of **gaming 🎮** and Japanese culture 🇯🇵  
-- Passionate about building **efficient, scalable, and clean code**  
-- Always trying to push the **limits of what I can build**  
+- Passionate about building **efficient, scalable, clean code**  
+- Always exploring **new technologies and challenges**  
 
 ---
 
