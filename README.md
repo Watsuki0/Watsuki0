@@ -2,7 +2,7 @@
 <!-- WATSUKI - GITHUB PROFILE README -->
 <!-- ========================== -->
 
-<h1 align="center">Hi 👋, I'm Watsuki</h1>
+<h1 align="center">Hi 👋, I'm Corentin van Geel</h1>
 <h3 align="center">Full-Stack Developer | React, ASP.NET, SQL, etc... | AI Enthusiast | Hardcore Gamer</h3>
 
 ---
