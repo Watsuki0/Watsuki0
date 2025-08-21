@@ -74,7 +74,7 @@ Some of my public projects showcase concepts and experiments, but most of my rea
 ---
 
 ### 💼 Current Roles
-- **Webmaster** at [UBLf](https://ublf.kalisport.com) – Managing and maintaining the club's website and online presence.  
+- **Webmaster** at [UBLF](https://ublf.kalisport.com) – Managing and maintaining the club's website and online presence.  
 - **Computer Science Instructor** at [Logiscool Mons](https://www.logiscool.com/be/locations/mons) – Teaching programming and IT concepts to students in a fun, interactive way.
 
 ---
