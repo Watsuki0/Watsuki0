@@ -38,7 +38,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Watsuki&show_icons=true&theme=radical&hide=prs" alt="Watsuki's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Watsuki&theme=radical" alt="Watsuki's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watsuki&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
