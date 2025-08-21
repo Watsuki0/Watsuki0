@@ -61,8 +61,8 @@
 
 ### 📂 Personal Projects
 - **Hackathon 2025**: Team of 4, 72h AI project for #AIFORGOOD, Mons.  
-- **Web Development**: Creation & management of websites, e.g., [UBLf](https://www.ublf.be) and other personal projects.
-- 
+- **Web Development**: Creation & management of websites, e.g., [UBLF](https://ublf.kalisport.com) and other personal projects.
+- **A lot of others projects**
 ---
 
 ### 🗂️ Selected Public Work
