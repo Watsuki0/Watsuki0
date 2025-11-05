@@ -18,7 +18,7 @@
 ---
 
 ### 🛠️ Skills & Technologies
-
+<p>
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tinkercad-F78F1E?style=for-the-badge&logo=tinkercad&logoColor=white" />
-
+</p>
 ---
 
 ### 💻 Expertise
