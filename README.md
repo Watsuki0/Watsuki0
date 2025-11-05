@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tinkercad-F78F1E?style=for-the-badge&logo=tinkercad&logoColor=white" />
 </p>
+
 ---
 
 ### 💻 Expertise
